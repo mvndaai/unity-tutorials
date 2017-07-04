@@ -1,2 +1,2 @@
-Assets
-!Assets/_Scenes
+Assets/*
+!Assets/_Scenes*
