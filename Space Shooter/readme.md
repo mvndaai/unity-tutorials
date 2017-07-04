@@ -1,0 +1,1 @@
+The assests for this game are downloaded from the store they are gitginored. If you would like to clone the game you would need to download the assets from https://www.assetstore.unity3d.com/en/content/13866
