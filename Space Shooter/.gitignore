@@ -3,3 +3,5 @@ Assets/*
 !Assets/_Created*
 */UnityLockfile
 **/Temp/*
+**/ShaderCache
+**/il2cpp_cache
