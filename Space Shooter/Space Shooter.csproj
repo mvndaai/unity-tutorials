@@ -91,6 +91,7 @@
     <Compile Include="Assets\_Complete-Game\Scripts\Done_WeaponController.cs" />
     <Compile Include="Assets\_Created\Scripts\DestroyByBoundary.cs" />
     <Compile Include="Assets\_Created\Scripts\DestroyByContact.cs" />
+    <Compile Include="Assets\_Created\Scripts\DestroyByTime.cs" />
     <Compile Include="Assets\_Created\Scripts\GameController.cs" />
     <Compile Include="Assets\_Created\Scripts\Mover.cs" />
     <Compile Include="Assets\_Created\Scripts\PlayerController.cs" />
